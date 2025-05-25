@@ -1,0 +1,21 @@
+"A camiseta é muito confortável e macia, adorei!"
+"A qualidade do tecido é excelente, recomendo."
+"A camiseta é um pouco cara, mas vale a pena pelo conforto."
+"Não gostei muito da cor, mas o tecido é bom."
+"A camiseta encolheu um pouco depois de lavar."
+
+Produto: Camisetas de algodão orgânico
+
+"Adorei as camisetas! São super macias e confortáveis, e o fato de serem de algodão orgânico me faz sentir bem por estar apoiando a sustentabilidade. A durabilidade parece boa, mas o preço é um pouco salgado."
+"As camisetas são realmente macias, mas encolheram um pouco na primeira lavagem, mesmo seguindo as instruções. A cor também desbotou um pouco mais rápido do que eu esperava. A entrega foi rápida, no entanto."
+"Produto ok. A qualidade do tecido é boa, mas não vi nada de excepcional que justifique o preço. É uma camiseta básica."
+Produto: Jeans feitos com materiais reciclados
+
+"Esses jeans são incríveis! O caimento é perfeito e a ideia de serem feitos com materiais reciclados é genial. Super confortáveis para o dia a dia. Demorou um pouco para chegar, mas valeu a pena!"
+"Fiquei decepcionada com os jeans. O tecido é áspero e não veste bem. A costura já está soltando em alguns pontos depois de poucas semanas de uso. Não compraria novamente."
+"Os jeans têm uma proposta interessante, mas o conforto deixa a desejar. O design é moderno, mas o material não é tão macio quanto eu esperava. A embalagem veio um pouco amassada."
+Produto: Maquiagem mineral
+
+"Maravilhosa! Minha pele sensível reagiu super bem, sem irritações. A cobertura é natural e dura o dia todo. Finalmente encontrei uma maquiagem que não me causa problemas. Um pouco difícil de encontrar em lojas físicas."
+"Gostei da maquiagem, a textura é boa e não pesa na pele. Porém, a cartela de cores é bem limitada, o que dificultou encontrar o tom certo para mim. A embalagem é bonita."
+"Não me adaptei a essa maquiagem. A cobertura não foi suficiente para minhas necessidades e ela não se fixou bem na minha pele oleosa. O preço é alto para o resultado que obtive."
